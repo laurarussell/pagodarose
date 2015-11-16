@@ -1,0 +1,75 @@
+Museum,University,Abbreviation,IPTurl,IPTCollCount,Mammals,Herps,Birds,Fish,Special,Paleo,Tissues,NonVert,Country,State,City
+Ajtte Museum,,AJTT,http://www.gbif.se/ipt/resource.do?r=ajtt-ajn - via GBIF Sweden,4,-1,-1,-1,-1,,,,,SWE,,Jokkmokk
+Alaska Ocean Observing System,,AOOS,,1,,,,-1,,,,,USA,AK,Anchorage
+Albertson College,College of Idaho (formerly Albertson College),ACI,,4,,-1,-1,-1,-1,,,,USA,ID,Caldwell
+Antarctic Site Inventory - Oceanites,,ASI,,1,,,-1,,,,,,ATA,MD,Chevy Chase
+Australian Antarctic Data Center,,AADC,,2,,,,,,,,,AUS,TAS,Kingston
+"Aves & ConservaciÃ_n, Birdlife",,,,1,,,,,,,,,ECU,,Quito
+Banc de Dades de Biodiversitat de Catalunya,University of Barcelona,BDBC,,1,,,,,,,,,SPN,ES-CT,Barcelona
+Biozentrum Grindel und Zoologisches Museum,University of Hamburg,UUH,,1,,,,,,,,,DEU,,Hamburg
+California Polytechnic State University Vertebrate Collection,California Polytechnic State University,CalPoly,,2,-1,,-1,,,,,,USA,CA,San Luis Obispo
+Centro Nacional Patagonico - CONICET,,CONICET,"http://ipt.mincyt.gob.ar/
+http://www.cenpat-conicet.gov.ar:8080/ipt-2.0.3/",1,,,,,,,,,ARG,AR-U,Puerto Madryn
+Charles Darwin Foundation,,CDF,,4,,,,,,,,,ECU,,Galapagos Islands
+Chengdu Institute of Biology,Chinese Academy of Sciences,CIB,,1,,-1,,,,,,,CHN, Sichuan,Chengdu
+Columibia-Greene Community College Natural History Museum,Columbia-Greene Community College,CGCC,,1,,,-1,,,,,,USA,NY,Hudson
+Comision nacional para el conocimiento y uso de la biodiversidad,,CONABIO,,1,,,,,,,,,MEX,DF,Mexico City
+ECOCEAN Whale shark Identification,,ECOCEAN,,1,,,,-1,,,,,USA,OR,Portland
+Ecuadorian Museum of Natural Science,Universidad San Francisco de Quito,MECN,,1,,,,,,,,,ECU,,Quito
+EMAN,,EMAN,,1,,,,,,,,,CAN,ON,Burlington
+Finnish Museum of Natural History,,Helsinki,http://ipt.digitarium.fi/,1,,,,,,,,,FIN,,Helsinki
+Florida Fish and Wildlife Conservation Commission,,FWRI,,1,,,,-1,,,,,USA,FL,St. Petersburg
+FundacÃ_on Miguel Lillo Provider,,LILLO,http://ipt.mincyt.gob.ar/,1,,,,,,,,,ARG,,Tucuman
+GBIF Spain,,GBIF-ES,http://www.gbif.es:8080/ipt/,1,,,,,,,,,SPN,,Madrid
+Georgia Museum of Natural History,University of Georgia,GMNH,,2,,-1,-1,,,,,,USA,GA,Athens
+Gothenburg Natural History Museum,,GNM,http://www.gbif.se/ipt/resource.do?r=gnm-verte - Via GBIF Sweden,4,-1,-1,-1,-1,,,,,SWE,,Gothenburg
+GTI Japan,,GTI,,1,,,,,,,,,JPN,,Kanagawa
+Gulf Coast Research Laboratory Museum,University of Southern Mississippi,GCRL,,1,,,,-1,,,,,USA,MS,Ocean Springs
+Houston Museum of Natural Science,,HMNS,,3,-1,-1,-1,,,,,,USA,TX,Houston
+"Institute of Marine and Coastal Sciences, Rutgers Unviersity",Rutgers University,IOBIS,,1,,,,-1,,,,,USA,NJ,New Brunswick
+Instituto Argentino de Investigaciones de las Zonas ÃÅridas,,IADIZA,,1,,,,,,,,,ARG,MEN,Mendoza
+Instituto de InvestigaciÃ_n de Recursos BiolÃ_gicos Alexander von Humboldt,,IAvH,http://ipt.sibcolombia.net/iavh/,4,,,,,,,,,COL,DC,Bogota
+Kellog Bird Sanctuary,Michigan State Biological Station network,KBS,,1,,,-1,,,,,,USA,MI,Augusta
+Korea Institute of Science and Technology,,KISTI,http://data.kbif.re.kr/ipt/,1,,,,,,,,,KOR,,Seoul
+"Laboratorio de Cordados Terrestres, Escuela Nacional de Ciencias BiolÃ_gicas, IPN (CAB)",,CAB,,4,,,,,,,,,MEX,,Mexico City
+"Louisiana State University, Shreveport","Louisiana State University, Shreveport",LSUS,,4,-1,-1,-1,-1,,,,,USA,LA,Shreveport
+Museo Argentino de Ciencias Naturales,,MACN,,3,,,,,,,,,ARG,BA,Buenos Aires
+Museo Nacional de Historia Natural,,CBF,,4,,,,,,,,,BOL,,La Paz
+"Museum fÃ_r Naturkunde, Humboldt-UniversitÃ_t zu Berlin","Humboldt Univerity, Berlin",HU,,1,,,,,,,,,DEU,,Berlin
+"National Museum of Nature and Science, Japan",,,,1,,,,,,,,,JPN,,Tokyo
+National Museums of Kenya,,NMK,,1,,,,,,,,,KEN,,Nairobi
+National Science Museum of Korea,,,,1,,,,,,,,,KOR,,Daejeon
+Pennsylvania State University Mammal Collection,Pennsylvania State University,PENN,,1,-1,,,,,,,,USA,PA,University Park
+Pittsburg State University,Pittsburg State University,KSP,,2,,1,,1,,,,,USA,KS,Pittsburg
+Pontificia Universidad Catolica del Ecuador Centro de Biodiversidad y Ambiente Museum de Zoologia,Pontificia Universidad Catolica,PUCE,,4,,,,,,,,,ECU,,Quito
+"Portland State University, Collection of Vertebrates",Portland State University,PSU,,4,-1,-1,-1,-1,,,,,USA,OR,Portland
+Raffles Museum of Biodiversity Research,National University of Singapore,RM,,1,,-1,,,,,,,SGP,,Singapore
+REBIOMA,,REBIOMA,http://iptmada.rebioma.net/,4,,,,,,,,,MDG,,Antananarivo
+Roosevelt Wildlife Collection,SUNY College of Environmental Science and Forestry,SUNY-ESF,,4,-1,-1,-1,-1,,,,,USA,NY,Syracuse
+Royal Alberta Museum,,RAM,,1,,,,,,,,,CAN,,Edmonton
+Royal Museum of Central Africa,,RMCA,http://biocase.africamuseum.be/ipt_rmca/,1,,-1,,,,,,,BEL,,Tervuren
+Senckenberg Forschungsinstitut und Naturmuseum,,,,1,,-1,,,,,,,DEU,,Frankfurt
+"Siamazonia Provider, GBIF Peru",,,,1,,,,,,,,,PER,,Iquitos
+South African Institute for Aquatic Biodiversity,,RUSI,,1,,,,,,,,,ZAF,,Grahamstown
+Swedish Museum of Natural History,,NRM,"Via GBIF Sweden
+
+http://www.gbif.se/ipt/resource.do?r=nrm-fishes 
+http://www.gbif.se/ipt/resource.do?r=nrm-herpetology 
+http://www.gbif.se/ipt/resource.do?r=nrm-mammals 
+http://www.gbif.se/ipt/resource.do?r=nrm-porpoises",3,-1,-1,,-1,,,,,SWE,,Stockholm
+SysTax - a Database System for Systematics and Taxonomy,Ruhr-University of Bochum,SysTax,,1,,,,,,,,,DEU,,Bochum
+Taiwan Biodiversity Information Facility,,TAIBIF,http://taibif.tw/ipt/,1,,P,,,,,,,TWN,,Taipei
+The Georgia College Natural History Museum,Georgia College and State Museum,,,1,,,-1,,,,,,USA,GA,Milledgeville
+Truman State University,Truman State University,TSU,,4,-1,-1,-1,-1,,,,,USA,MO,Kirksville
+UK National Biodiversity Network,,NBN,,1,,,,,,,,,GBR,,Nottingham
+Universidad Autonoma de Mexico Facultad de Ciencias Museo de ZoologÃ_a de la Facultad de Ciencias,Universidad Nacional Autonoma de Mexico,"MZFC, UNAM, UNIBIO",,3,-1,-1,-1,,,,,,MEX,,Mexico City
+"Universidad de la RepÃºblica, Facultad de Ciencias",Universidad de la RepÃºblica,URFC,,1,,,,,,,,,URY,,Montevideo
+"Universidade de BrasÃ_lia, Departamento de Zoologia",Universidade de BrasÃ_lia,UBDZ,,1,,,,,,,,,BRA,,BrasÃ_lia
+University of Costa Rica,University of Costa Rica,UCR,http://www.crbio.cr/ipt/,1,,,,,,,,,CRI,,San Jose
+"University of Navarra, Museum of Zoology, Navarra Spain",University of Navarra,UNAV,,3,,,,,,,,,SPN,,Navarra
+Virginia Institute of Marine Science,College of William and Mary,VIMS,,1,,,,-1,,,,,USA,VA,Williamsburg
+West Virginia Biological Survey Museum,Marshall University,,,2,-1,-1,,,,,,,USA,WV,Huntington
+Western Soundscape Archive,University of Utah,,,1,,,-1,,,,,,USA,UT,Salt Lake City
+Zoological Institute St. Petersburg,Russian Academy of Sciences,"ZIN, ZISP",,3,-1,-1,-1,,,,,,RUS,,St. Petersburg
+Zoological Museum Amsterdam,,ZMA,,3,,,,,,,,,ANT,,Amsterdam
+Zoology Museum of Adnan Menderes University,Adnan Menderes University,ZMAMU,,1,,,,,,,,,TUR,,Aydin
